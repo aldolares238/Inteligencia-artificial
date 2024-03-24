@@ -1,7 +1,7 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
 #Grupo: 6E1
-#Practica: 1/37 Busqueda en anchura
+#Practica: 1/37 Busqueda en anchura, Nos sirve para hacer el recorrido mas corto dentro de un grafo y sus datos
 
 #Importamos las librerias necesarias, principalmente las necesitaremos para mostrar de manera grafica el grafo
 import networkx as nx
