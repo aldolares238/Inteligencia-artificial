@@ -1,7 +1,7 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
 #Grupo: 6E1
-#Practica: 20/37 Acondicionamiento del Corte
+#Practica: 21/37 Acondicionamiento del Corte
 
 import networkx as nx
 import matplotlib.pyplot as plt
