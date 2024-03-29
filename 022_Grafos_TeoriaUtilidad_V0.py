@@ -1,7 +1,7 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
 #Grupo: 6E1
-#Practica: 21/37 Teoría de la Utilidad: Función de Utilidad
+#Practica: 22/37 Teoría de la Utilidad: Función de Utilidad
 
 import networkx as nx
 import matplotlib.pyplot as plt
