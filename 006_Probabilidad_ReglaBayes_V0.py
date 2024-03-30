@@ -3,6 +3,7 @@
 #Grupo: 6E1
 #Practica: 6/60 Regla de Bayes
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 
