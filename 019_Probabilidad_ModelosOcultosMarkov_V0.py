@@ -1,7 +1,7 @@
-#Nombre: Aldo Emiliano Chavez Lares
-#Registro: 21310238
-#Grupo: 6E1
-#Practica: 19/60 Modelos Ocultos de Markov
+    #Nombre: Aldo Emiliano Chavez Lares
+    #Registro: 21310238
+    #Grupo: 6E1
+    #Practica: 19/60 Modelos Ocultos de Markov
 
 import numpy as np
 import matplotlib.pyplot as plt
