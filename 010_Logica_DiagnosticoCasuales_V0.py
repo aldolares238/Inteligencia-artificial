@@ -1,7 +1,7 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
 #Grupo: 6E1
-#Practica: 10/59 Reglas de Diagnóstico y Causales
+#Practica: 10/59 Reglas de Diagnóstico y Causales
 
 # Importamos las bibliotecas necesarias
 import matplotlib.pyplot as plt
