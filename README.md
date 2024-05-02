@@ -1,2 +1,2 @@
 # Inteligencia-artificial
-Mapa de la inteligencia artificial - 3 Enfoques de la IA
+Mapa de la inteligencia artificial - ENFOQUE 3: LOGICA
